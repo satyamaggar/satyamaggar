@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm [Satyam Aggarwal].
 
-<!--
-**satyamaggar/satyamaggar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building my skills in quantitative finance, mathematics, and machine learning.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, SQL
+- **Interests:** Quantitative Finance (QFin), Mathematics, Machine Learning
+
+## Currently
+
+- Learning more about quantitative finance and ML
+- Building projects with Python and SQL
+
+## Contact
+
+- Email: mail.satyamaggarwal@gmail.com
