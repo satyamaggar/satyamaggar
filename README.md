@@ -1,6 +1,6 @@
-# Hi, I'm [Satyam Aggarwal].
+# Hi, I am Satyam Aggarwal.
 
-I'm building my skills in quantitative finance, mathematics, and machine learning.
+I'm building my skills in Quantitative finance, Mathematics, and Machine learning.
 
 ## Skills
 
@@ -9,8 +9,8 @@ I'm building my skills in quantitative finance, mathematics, and machine learnin
 
 ## Currently
 
-- Learning more about quantitative finance and ML
-- Building projects with Python and SQL
+- Learning more about quantitative finance and ML.
+- Building projects with Python and SQL.
 
 ## Contact
 
